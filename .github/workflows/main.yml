@@ -9,4 +9,4 @@ jobs:
 
      steps:
        - name: Greetings
-         run: echo"Hello From SNcoders"
+         run: echo "Hello From SNcoders"
